@@ -16,4 +16,4 @@ npm run dev
 
 ## Deployed Version
 
-You can also view the production version by visiting this [link]()
+You can also view the production version by visiting this [link](https://creaition-task.vercel.app/)
