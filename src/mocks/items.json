@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Item 1",
+    "price": 100,
+    "quantity": 1,
+    "pricture": "http://www.example.com/image.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Item 2",
+    "price": 200,
+    "quantity": 2,
+    "pricture": "http://www.example.com/image.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Item 3",
+    "price": 300,
+    "quantity": 3,
+    "pricture": "http://www.example.com/image.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Item 4",
+    "price": 400,
+    "quantity": 4,
+    "pricture": "http://www.example.com/image.jpg"
+  }
+]
