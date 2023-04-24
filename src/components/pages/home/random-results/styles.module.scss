@@ -1,3 +1,7 @@
+.wrapper {
+  @apply grid grid-cols-3 gap-12 mx-auto my-24;
+}
+
 .imageHolder {
   position: relative;
   padding-top: 70%;

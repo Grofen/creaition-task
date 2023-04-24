@@ -1,0 +1,17 @@
+.wrapper {
+  height: 341px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px dashed #000;
+}
+
+.imageHolder {
+  position: relative;
+  height: 50px;
+  width: 50px;
+}
+
+.image {
+  object-fit: contain;
+}

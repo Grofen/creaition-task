@@ -1,9 +1,7 @@
-import Landing from '@/components/landing';
+import Home from '@components/pages/home';
 
-export default function Home() {
-  return (
-    <>
-      <Landing />
-    </>
-  );
-}
+const HomePage = () => {
+  return <Home />;
+};
+
+export default HomePage;
